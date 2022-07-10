@@ -3,7 +3,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 ## If you Like My work Star the repo and Follow me on Github
 
 # Features:
-## By [Arsh](https://github.com/arshsisodiya)
+## By [AnshumanPM](https://t.me/AnshumanPM)
 - Mirror logs
 - Leech logs
 - Source link button
