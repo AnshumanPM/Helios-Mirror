@@ -1,4 +1,4 @@
-FROM anshumanpm/anshumanmirror:latest
+FROM anshumanpm/anshumanmirrorbot:public
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
